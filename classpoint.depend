@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523033634 source:c:\users\okok computers\desktop\classpoint\main.cpp
+	<iostream>
+	"point.h"
+
+1523034450 c:\users\okok computers\desktop\classpoint\point.h
+	<iostream>
+
